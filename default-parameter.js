@@ -22,3 +22,19 @@ function fullName(firstName, lastName = 'Al Amin') {
 
 const name = fullName('Suhag')
 console.log(name);
+
+
+// Shormily Raisa first 4 assignment average marks 
+
+/* 
+function average() {
+    let allNum = 0;
+    for (const num of arguments) {
+        allNum += num;
+    }
+    return allNum / 4;
+}
+
+const marks = average(57, 47, 32, 48)
+console.log('Your Average Mark is', marks); 
+*/
