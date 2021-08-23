@@ -23,8 +23,8 @@ const firstName = 'MOkta';
 const lastName = 'Allo';
 const birthDay = 13;
 const profession = 'Student';
-const favPersion = 'Suhag';
+const favPerson = 'Suhag';
 const herFriends = ['Suhag ', 'Afrin ', 'Anika ', 'Romana ', 'Somi '];
-const her = `Her name is: ${firstName} ${lastName}. Her birthday is: ${birthDay}. She is a ${profession}. Her most favorite persion is ${favPersion}. She has ${herFriends.length} friends. They are ${herFriends}. She has ৳ ~ ${(herFriends.length + 10 - 5 / 2) * 1000}`;
+const her = `Her name is: ${firstName} ${lastName}. Her birthday is: ${birthDay}. She is a ${profession}. Her most favorite persion is ${favPerson}. She has ${herFriends.length} friends. They are ${herFriends}. She has ৳ ~ ${(herFriends.length + 10 - 5 / 2) * 1000}`;
 
 console.log(her);
